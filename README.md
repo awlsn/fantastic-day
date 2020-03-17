@@ -1,2 +1,0 @@
-# fantastic-day
-Begin app
